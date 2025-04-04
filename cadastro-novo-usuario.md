@@ -26,13 +26,13 @@
 | Nº | Ação | Resultado Esperado | 
 |----|------|---------------------|
 | 1  | Acessar a página de registro | O formulário de cadastro deve ser exibido |
-| 2  | Preencher o campo **Nome completo*** com "Eli Reis" | O nome deve ser inserido no campo |
+| 2  | Preencher o campo **Nome completo** com "Eli Reis" | O nome deve ser inserido no campo |
 | 3  | Preencher o campo **Endereço** com "Rua Teste, 123 - São Paulo" | O endereço deve ser exibido no campo |
 | 4  | Preencher o campo **Endereço de email** com "elitester@test.com" | O e-mail deve ser aceito pelo campo |
 | 5  | Preencher o campo **Telefone** com "11987654321" | O sistema deve aceitar o número e não permitir letras |
 | 6  | Selecionar **Genero** como "Female" | O sistema deve permitir apenas uma seleção |
-| 7  | Selecionar os **Hobbies** "Filmes" e "Hoquei" | O sistema deve permitir múltiplas seleções |
-| 8  | Escolher **Idioma** como "Portugûes" | O idioma selecionado deve ser exibido no campo |
+| 7  | Selecionar os **Hobbies** "Filmes" e "Hóquei" | O sistema deve permitir múltiplas seleções |
+| 8  | Escolher **Idioma** como "Português" | O idioma selecionado deve ser exibido no campo |
 | 9  | Escolher **Habilidades** como "Linux" | A opção "Linux" deve ser mantida no campo |
 | 10 | Escolher **País** como "Brasil" | A opção "Brasil" deve ser exibida no campo |
 | 11 | Selecionar **Data de nascimento** (Ano: 1994, Mês: Julho, Dia: 22) | A data deve ser aceita pelo campo |
